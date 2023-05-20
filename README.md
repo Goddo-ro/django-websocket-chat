@@ -57,3 +57,11 @@ python manage.py runserver
 - БД: SQLite
 - Библиотека для работы с вебсокетами: channels 3.0.4 
 - CSS препроцессор: SCSS
+
+# Изображения
+
+![photo_2023-05-20_21-08-38](https://github.com/Goddo-ro/django-websocket-chat/assets/98981618/ec6a1c12-312f-4bf9-95da-6df6356eed9a)
+![photo_2023-05-20_21-10-30](https://github.com/Goddo-ro/django-websocket-chat/assets/98981618/4d834e46-3fd1-405d-a2f6-70d27832835b)
+![photo_2023-05-20_21-11-36](https://github.com/Goddo-ro/django-websocket-chat/assets/98981618/a8b2bd79-f553-4278-8e84-fab3d7e23160)
+![photo_2023-05-20_21-16-00](https://github.com/Goddo-ro/django-websocket-chat/assets/98981618/4e85e89e-8834-4f71-8843-c146a920ad2a)
+![photo_2023-05-20_21-16-09](https://github.com/Goddo-ro/django-websocket-chat/assets/98981618/d667ddbf-bc9b-4a56-9541-7b2dace6a874)
